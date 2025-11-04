@@ -1,2 +1,9 @@
-проект на стадии разработки для просмотра локальной версии необходимо скачать сам проект
-через терминал установить следующие пакеты Django 5.2.7 django-debug-toolbar 6.0.0 pillow 12.0.0 psycopg2 2.9.11
+Локальная версия проекта - Подарок в большом городе (PBC)
+скачать файлы в свой директорий 
+запустить и активировать виртуальное окружение(python -m venv venv; venv\Scripts\activate)
+обновить (python -m pip install --upgrade pip)
+установить django (pip install django)
+установить django-debug-toolbar (pip install django-debug-toolbar)
+установить pillow (python -m pip install Pillow)
+установить psycopg2 (pip install psycopg2)
+python manage.py runserver - запустить сервер
